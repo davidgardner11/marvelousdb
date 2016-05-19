@@ -1,3 +1,4 @@
+≈require('@risingstack/trace')
 var express = require('express');
 var exphbs  = require('express3-handlebars');
 var querystring = require('querystring');
